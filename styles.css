@@ -1,18 +1,19 @@
 h1, h2, h3, h4 {
     text-align: default;
     font-family: Arial, sans-serif;
+    font-size: default;
     font-weight: default;
 }
 p {
   font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
+  font-size: default;
   text-align: default;
 }
 a:link {
   color: red;
   text-align: center;
   font-family: "Times New Roman", serif;
-  font-size: 20px;
+  font-size: default;
 }
 a:visited {
     color:#b30000;
